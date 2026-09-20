@@ -1,0 +1,7 @@
+{
+  "PRD-100": {"product_id": "PRD-100", "unit_cost": 10000, "unit_freight_cost": 300,  "list_price": 15000, "brand": "hp"},
+  "PRD-200": {"product_id": "PRD-200", "unit_cost": 8000,  "unit_freight_cost": 150,  "list_price": 12000, "brand": "apple"},
+  "PRD-300": {"product_id": "PRD-300", "unit_cost": 6000,  "unit_freight_cost": 200,  "list_price": 9000,  "brand": "lenovo"},
+  "PRD-400": {"product_id": "PRD-400", "unit_cost": 6200,  "unit_freight_cost": 100,  "list_price": 7500,  "brand": "microsoft"},
+  "PRD-445": {"product_id": "PRD-445", "unit_cost": 14700, "unit_freight_cost": 250,  "list_price": 18000, "brand": "lenovo"}
+}

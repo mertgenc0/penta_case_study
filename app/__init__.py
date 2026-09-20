@@ -1,0 +1,1 @@
+"""Teklif Ön Değerlendirme API — ana uygulama paketi."""

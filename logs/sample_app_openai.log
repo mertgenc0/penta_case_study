@@ -1,0 +1,27 @@
+{"timestamp": "2026-09-20T12:35:49.737022+00:00", "level": "INFO", "logger": "app.main", "message": "Uygulama başlatıldı", "log_level": "INFO"}
+{"timestamp": "2026-09-20T12:36:10.501373+00:00", "level": "INFO", "logger": "app.services.crm_client", "message": "CRM verileri yüklendi", "kayit_sayisi": 6}
+{"timestamp": "2026-09-20T12:36:10.502053+00:00", "level": "INFO", "logger": "app.services.erp_client", "message": "ERP verileri yüklendi", "stok_kayit": 5, "fiyat_kayit": 5}
+{"timestamp": "2026-09-20T12:36:12.669401+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:14.507687+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:14.513004+00:00", "level": "INFO", "logger": "app.ai.offer_agent", "message": "AI özeti üretildi", "offer_id": "OFF-10001", "prompt_version": "1.1"}
+{"timestamp": "2026-09-20T12:36:14.513385+00:00", "level": "INFO", "logger": "app.api.routes", "message": "Teklif değerlendirmesi tamamlandı", "offer_id": "OFF-10001", "decision": "APPROVE", "ai_status": "OK", "transaction_id": "35920cf2-3a9e-417a-a880-17d734ae114d"}
+{"timestamp": "2026-09-20T12:36:20.287115+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:21.542565+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:21.551118+00:00", "level": "INFO", "logger": "app.ai.offer_agent", "message": "AI özeti üretildi", "offer_id": "OFF-10002", "prompt_version": "1.1"}
+{"timestamp": "2026-09-20T12:36:21.551625+00:00", "level": "INFO", "logger": "app.api.routes", "message": "Teklif değerlendirmesi tamamlandı", "offer_id": "OFF-10002", "decision": "REJECT", "ai_status": "OK", "transaction_id": "6e386eb3-aba9-4c74-a62d-110e015dbf13"}
+{"timestamp": "2026-09-20T12:36:25.312224+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:26.744383+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:26.753027+00:00", "level": "WARNING", "logger": "app.ai.offer_agent", "message": "Guardrail ihlali — fallback kullanılıyor", "violation_type": "NUMERIC_MISMATCH", "offer_id": "OFF-10003"}
+{"timestamp": "2026-09-20T12:36:26.753536+00:00", "level": "INFO", "logger": "app.api.routes", "message": "Teklif değerlendirmesi tamamlandı", "offer_id": "OFF-10003", "decision": "NEED_APPROVAL", "ai_status": "FALLBACK", "transaction_id": "19b12eb4-0d0e-4963-9400-38802146fcd3"}
+{"timestamp": "2026-09-20T12:36:30.501766+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:32.343897+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:32.347522+00:00", "level": "INFO", "logger": "app.ai.offer_agent", "message": "AI özeti üretildi", "offer_id": "OFF-10004", "prompt_version": "1.1"}
+{"timestamp": "2026-09-20T12:36:32.347896+00:00", "level": "INFO", "logger": "app.api.routes", "message": "Teklif değerlendirmesi tamamlandı", "offer_id": "OFF-10004", "decision": "NEED_APPROVAL", "ai_status": "OK", "transaction_id": "a8568a50-5cb7-4095-bb7b-1eee2ba76025"}
+{"timestamp": "2026-09-20T12:36:35.645626+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:37.694720+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:37.698838+00:00", "level": "INFO", "logger": "app.ai.offer_agent", "message": "AI özeti üretildi", "offer_id": "OFF-10023", "prompt_version": "1.1"}
+{"timestamp": "2026-09-20T12:36:37.699223+00:00", "level": "INFO", "logger": "app.api.routes", "message": "Teklif değerlendirmesi tamamlandı", "offer_id": "OFF-10023", "decision": "NEED_APPROVAL", "ai_status": "OK", "transaction_id": "ee272682-3a12-4336-8625-471b0d81577b"}
+{"timestamp": "2026-09-20T12:36:52.295333+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:54.342713+00:00", "level": "INFO", "logger": "httpx2", "message": "HTTP Request: POST https://api.openai.com/v1/chat/completions \"HTTP/1.1 200 OK\""}
+{"timestamp": "2026-09-20T12:36:54.346839+00:00", "level": "WARNING", "logger": "app.ai.offer_agent", "message": "Guardrail ihlali — fallback kullanılıyor", "violation_type": "JSON_PARSE_ERROR", "offer_id": "OFF-10023"}
+{"timestamp": "2026-09-20T12:36:54.347444+00:00", "level": "INFO", "logger": "app.api.routes", "message": "Teklif değerlendirmesi tamamlandı", "offer_id": "OFF-10023", "decision": "NEED_APPROVAL", "ai_status": "FALLBACK", "transaction_id": "0da1805f-414b-4d6d-9a85-25763ebd51f5"}

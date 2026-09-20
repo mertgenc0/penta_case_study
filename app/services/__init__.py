@@ -1,0 +1,1 @@
+"""Dış servis istemcileri — CRM ve ERP entegrasyonları."""

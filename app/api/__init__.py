@@ -1,0 +1,1 @@
+"""API katmanı — HTTP uç noktaları ve istek yönlendirme."""

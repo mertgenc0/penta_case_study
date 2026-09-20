@@ -1,0 +1,1 @@
+"""Çekirdek iş mantığı — karar motoru ve PII araçları."""

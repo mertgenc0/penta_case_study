@@ -1,0 +1,31 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python derleme dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ortam değişkenleri — şablon için .env.example kullan, asıl değerler .env'de
+.env
+
+# Log dosyaları — yalnızca logs/sample_audit.jsonl teslim edilir
+logs/app.log
+logs/audit.jsonl
+
+# IDE ve işletim sistemi
+.DS_Store
+.idea/
+.vscode/
+
+# Test ve derleme çıktıları
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+
+

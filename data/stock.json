@@ -1,0 +1,7 @@
+{
+  "PRD-100": {"product_id": "PRD-100", "available": 50},
+  "PRD-200": {"product_id": "PRD-200", "available": 0},
+  "PRD-300": {"product_id": "PRD-300", "available": 2},
+  "PRD-400": {"product_id": "PRD-400", "available": 20},
+  "PRD-445": {"product_id": "PRD-445", "available": 20}
+}

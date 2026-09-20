@@ -1,0 +1,80 @@
+{
+  "OFF-10001": {
+    "offer_id": "OFF-10001",
+    "customer": {
+      "name": "Hızlı Bilişim A.Ş.",
+      "email": "satis@hizlibilisim.com",
+      "phone": "+90 532 100 11 22"
+    },
+    "product_id": "PRD-100",
+    "quantity": 5,
+    "requested_discount": 5,
+    "offer_total": 75000,
+    "customer_segment": "gold"
+  },
+  "OFF-10002": {
+    "offer_id": "OFF-10002",
+    "customer": {
+      "name": "Doğu Teknoloji Ltd.",
+      "email": "teklif@dogutekno.com",
+      "phone": "+90 533 200 33 44"
+    },
+    "product_id": "PRD-200",
+    "quantity": 3,
+    "requested_discount": 8,
+    "offer_total": 30000,
+    "customer_segment": "standard"
+  },
+  "OFF-10003": {
+    "offer_id": "OFF-10003",
+    "customer": {
+      "name": "Batı Sistem Tic.",
+      "email": "info@batisistem.com",
+      "phone": "+90 534 300 55 66"
+    },
+    "product_id": "PRD-300",
+    "quantity": 5,
+    "requested_discount": 6,
+    "offer_total": 40000,
+    "customer_segment": "standard"
+  },
+  "OFF-10004": {
+    "offer_id": "OFF-10004",
+    "customer": {
+      "name": "Merkez Dağıtım A.Ş.",
+      "email": "satin@merkezdag.com",
+      "phone": "+90 535 400 77 88"
+    },
+    "product_id": "PRD-400",
+    "quantity": 3,
+    "requested_discount": 5,
+    "offer_total": 20000,
+    "customer_segment": "standard"
+  },
+  "OFF-10023": {
+    "offer_id": "OFF-10023",
+    "customer": {
+      "name": "ABC Teknoloji",
+      "email": "buyer@example.com",
+      "phone": null
+    },
+    "product_id": "PRD-445",
+    "quantity": 8,
+    "requested_discount": 12,
+    "offer_total": 125000,
+    "customer_segment": "strategic_partner"
+  },
+  "OFF-10099": {
+    "offer_id": "OFF-10099",
+    "customer": {
+      "name": "Test Firma",
+      "email": "test@testfirma.com",
+      "phone": null
+    },
+    "product_id": "PRD-ERR",
+    "quantity": 1,
+    "requested_discount": 0,
+    "offer_total": 10000,
+    "customer_segment": "standard"
+  }
+}
